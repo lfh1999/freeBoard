@@ -1,2 +1,2 @@
 # freeBoard
-## draw some images required in software engineering
+## Drawing some images required in software engineering.
