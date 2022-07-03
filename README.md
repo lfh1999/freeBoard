@@ -1,3 +1,4 @@
-# freeBoard
-## Drawing some images required in software engineering.
-## Examples are class diagrams, flow charts.
+# 画板
+## 用于绘制一些软件工程中所需要的图。
+## 例如类图、流程图等等。
+## 大概是想做一个在线EA或者是特殊的ProcessOn。
